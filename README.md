@@ -62,3 +62,5 @@ _Programming assignments collection from [**Hands-On Reinforcement Learning for 
     3. [Exercise3] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/RL-4Games/blob/master/C10-All_about_Rainbow_DQN/Chapter_10_NDQN.ipynb) **Chapter_10_NDQN** :x:
     4. [Exercise4] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/RL-4Games/blob/master/C10-All_about_Rainbow_DQN/Chapter_10_QRDQN.ipynb) **Chapter_10_QRDQN** :x:
     5. [Exercise5] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/RL-4Games/blob/master/C10-All_about_Rainbow_DQN/Chapter_10_Rainbow.ipynb) **Chapter_10_Rainbow** :x:
+- [[Chapter11](C11-Exploiting_ML-Agents)] **Exploiting ML-Agents**
+    1. [Exercise1] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/RL-4Games/blob/master/C11-Exploiting_ML-Agents/Chapter_11_Unity_Rainbow.ipynb) **Chapter_11_Unity_Rainbow** :x:
