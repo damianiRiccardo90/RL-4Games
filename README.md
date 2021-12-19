@@ -64,3 +64,6 @@ _Programming assignments collection from [**Hands-On Reinforcement Learning for 
     5. [Exercise5] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/RL-4Games/blob/master/C10-All_about_Rainbow_DQN/Chapter_10_Rainbow.ipynb) **Chapter_10_Rainbow** :x:
 - [[Chapter11](C11-Exploiting_ML-Agents)] **Exploiting ML-Agents**
     1. [Exercise1] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/RL-4Games/blob/master/C11-Exploiting_ML-Agents/Chapter_11_Unity_Rainbow.ipynb) **Chapter_11_Unity_Rainbow** :x:
+- [[Chapter12](C12-DRL_Frameworks)] **DRL Frameworks**
+    1. [Exercise1] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/RL-4Games/blob/master/C12-DRL_Frameworks/Chapter_12_Keras-RL.ipynb) **Chapter_12_Keras-RL** :x:
+    2. [Exercise2] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damianiRiccardo90/RL-4Games/blob/master/C12-DRL_Frameworks/Chapter_12_SimpleRL.ipynb) **Chapter_12_SimpleRL** :x:
